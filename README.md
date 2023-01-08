@@ -1,1 +1,1 @@
-# fractals
+trying out rust :)
