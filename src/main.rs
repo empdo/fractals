@@ -111,9 +111,9 @@ pub fn main() {
        //     value as f64,
        // );
         
-        julia::draw_julia(&mut canvas, width, height, interval as f32, max_it);
+        julia::draw_julia(&mut canvas, width, height, time_step as f32, max_it);
 
-        interval += 1.0;
+        time_step += 1;
 
         canvas.present();
         ::std::thread::sleep(Duration::new(0, 1));

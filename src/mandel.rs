@@ -9,7 +9,7 @@ use stopwatch::Stopwatch;
 use coolor;
 
 
-pub fn draw_julia (
+pub fn draw_mandel (
     canvas: &mut WindowCanvas,
     width: u32,
     height: u32,

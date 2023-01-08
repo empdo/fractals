@@ -1,1 +1,1 @@
-/home/emil/dev/mandelbrot/target/debug/mandelbrot: /home/emil/dev/mandelbrot/src/julia.rs /home/emil/dev/mandelbrot/src/main.rs /home/emil/dev/mandelbrot/src/mandel.rs
+/home/emil/dev/fractals/target/debug/mandelbrot: /home/emil/dev/fractals/src/julia.rs /home/emil/dev/fractals/src/main.rs /home/emil/dev/fractals/src/mandel.rs
